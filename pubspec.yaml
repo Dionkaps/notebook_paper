@@ -1,8 +1,8 @@
 name: notebook_paper
 description: "Craft beautiful notebook-like interfaces in Flutter with ease using Notebook Paper, a customizable widget package."
-version: 0.0.2
-homepage: https://github.com/yourusername/notebook_paper
-repository: https://github.com/yourusername/notebook_paper
+version: 0.0.3
+homepage: https://github.com/Dionkaps/notebook_paper
+repository: https://github.com/Dionkaps/notebook_paper
 
 environment:
   sdk: '>=3.2.3 <4.0.0'
