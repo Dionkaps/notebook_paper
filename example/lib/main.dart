@@ -9,11 +9,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Notebook Paper Example',
       home: Scaffold(
-        appBar: AppBar(
-          title: Text('Notebook Paper Example'),
-        ),
         body: Center(
           child: Container(
             padding: EdgeInsets.all(16.0),
@@ -22,10 +18,10 @@ class MyApp extends StatelessWidget {
               title: 'My Notebook',
               fontSize: 20.0,
               rowHeight: 1.0,
-              width: 0.8, // Adjust the width as needed
-              paperColor: Colors.white,
-              horizontalLinesColor: Colors.grey,
-              verticalLinesColor: Colors.black,
+              width: 0.8,
+              paperColor: Color.fromARGB(255, 253, 248, 184),
+              horizontalLinesColor: Colors.blue,
+              verticalLinesColor: Colors.pink,
               pageTitle: true,
             ),
           ),
