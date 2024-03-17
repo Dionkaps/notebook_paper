@@ -10,9 +10,9 @@ For general information about developing packages, see the Dart guide for
 and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
-![notebook image](https://github.com/Dionkaps/notebook_paper/assets/46134991/d02f2657-5364-439c-962e-d78848682a43)
-
 # Notebook Paper
+
+![notebook image](https://github.com/Dionkaps/notebook_paper/assets/46134991/d02f2657-5364-439c-962e-d78848682a43)
 
 Craft beautiful notebook-like interfaces in Flutter with ease using Notebook Paper, a customizable widget package.
 
